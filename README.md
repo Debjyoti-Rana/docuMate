@@ -144,7 +144,7 @@ Thanks for using this app! Your feedback and contributions are welcome.
 
 This project’s core code was originally written by my friend — **[priangshudas](https://github.com/priangshudas/priDocs)**.
 The UI design and structure were inspired by the YouTube tutorial:
-[React + Firebase + Google Drive Integration App](https://www.youtube.com/watch?v=syHGmY75pfs) by Code With Antonio.
+[React + Firebase + Google Drive Integration App](https://www.youtube.com/watch?v=syHGmY75pfs) by Sheryians Coding School.
 
 I have rebranded, modified, and extended the project with additional features and improvements.
 
